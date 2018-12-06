@@ -1,0 +1,1 @@
+run sh run_servers.sh
